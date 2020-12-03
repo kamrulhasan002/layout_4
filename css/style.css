@@ -1,0 +1,21 @@
+h3{
+
+	color:green; font-size:45px
+}
+h4{
+	color:blue; border:5px solid green; font-size:50px
+}
+
+h5{
+	color:green; border:3px dashed red;font-size: 30px
+}
+
+h6{
+	color:red; border:4px dotted blue; font-size: 35px
+}
+.box{
+	width:400px;
+	height:200px;
+	background-color: rgba(80,70,50,.8);
+	text-align: center;
+}
